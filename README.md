@@ -6,5 +6,7 @@
 ## My Status
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=iitz-i13&show_icons=true&locale=en&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iitz-i13&theme=react)
+
 ## Programming Languages, Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=python,html,css,js,docker,firebase,react,r,matlab" />
